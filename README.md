@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F772B6&center=true&vCenter=true&width=600&lines=Passionate+CS+Engineer;AI+%7C+ML+%7C+Data+Analytics+Learner;Frontend+Developer;Cybersecurity+Awareness+Volunteer;Always+Learning+%26+Building!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F772B6&center=true&vCenter=true&width=600&lines=Passionate+CS+Engineer;AI+%7C+ML+%7C+Data+Analytics+Learner;Frontend+Developer;Cybersecurity+Awareness+Volunteer">
 </p>
 
 ---
@@ -16,11 +16,11 @@
 ## 👩‍💻 About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 I’m **Rutuja Bhagvat Chavan**, a 3rd Year **Computer Science & Engineering** student.  
-- 💡 Interested in **AI/ML, Data Analytics, Web Development, Cybersecurity**.  
+- 🎓 I’m **Rutuja Bhagvat Chavan**, a Final Year **Computer Science & Engineering** student.  
+- 💡 Interested in **AI/ML, Data Analytics, Web Development**.  
 - 🏆 Completed internships at **Intel® Unnati** (Frontend Web Development) & **Quick Heal Foundation** (Cybersecurity Volunteer).  
 - 💻 Built projects like **COVID-19 Severity Prediction, AI Video Summarizer, AI Recipe Finder, Easy Access Services**.  
-- 🚀 Currently **open to internships & job opportunities** in **AI/ML, Data Analytics, Web Development, Cybersecurity**.  
+- 🚀 Currently **open to internships & job opportunities** in **AI/ML, Data Analytics, Web Development**.  
 
 ---
 
@@ -54,7 +54,7 @@
 ## 🏆 Achievements
 - 💻 **Frontend Intern** @ Intel® Unnati  
 - 🔐 **Cybersecurity Volunteer** @ Quick Heal Foundation (Trained 1000+ students)  
-- 📜 Certifications: IBM Data Analytics with Python, Intel Unnati Generative AI  
+- 📜 **Certifications:** IBM Data Analytics with Python, Intel Unnati Generative AI  
 
 ---
 
