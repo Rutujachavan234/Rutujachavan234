@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://i.ibb.co/0m7cXW5/github-banner.png" alt="Rutuja Chavan Banner" width="100%"/>
-
 <h1 align="center">Hi 👋, I'm Rutuja Bhagvat Chavan</h1>
 <h3 align="center">🚀 AI | Data Analytics | Web Development | Cybersecurity Enthusiast</h3>
 
@@ -8,13 +5,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F772B6&center=true&vCenter=true&width=600&lines=Passionate+CS+Engineer;AI+%7C+ML+%7C+Data+Analytics+Learner;Frontend+Developer;Cybersecurity+Awareness+Volunteer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Passionate+CS+Engineer;AI+%7C+ML+%7C+Data+Analytics+Learner;Frontend+Developer;Cybersecurity+Awareness+Volunteer">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Girl Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/girl-working-on-computer.gif"/>
 
 - 🎓 I’m **Rutuja Bhagvat Chavan**, a Final Year **Computer Science & Engineering** student.  
 - 💡 Interested in **AI/ML, Data Analytics, Web Development**.  
@@ -41,12 +38,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rutujachavan234&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutujachavan234&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rutujachavan234&show_icons=true&theme=calm" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutujachavan234&theme=calm" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutujachavan234&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutujachavan234&layout=compact&theme=calm"/>
 </p>
 
 ---
